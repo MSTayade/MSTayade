@@ -1,6 +1,15 @@
+<!-- MASTER PIC -->
+<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="500" height="300" src="https://www.businessprocessincubator.com/wp-content/uploads/2021/01/data-science-job-myths.gif" height="175px"/></a>
 
-<h1 align="center">Hi 👋, I'm Madhuri Tayade</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<!-- INTRODUCTION -->
+    
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="80"> I'm Madhuri Tayade </h1>
+<h3 align="center">A Passionate Data Analyst from India</h3>
+
+<!-- INSERTING GIF ON RIGHT HAND SIDE AFTER ABOUT  -->
+<img align="right" alt="Coding" width="400" height="300" src="https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif">
+<h2 dir="auto"><img src="https://gfycat.com/cornydescriptivegoshawk" width="30" data-animated-image="" ></a> <strong>About Me:</strong></h2>
+<br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mstayade&label=Profile%20views&color=0e75b6&style=flat" alt="mstayade" /> </p>
